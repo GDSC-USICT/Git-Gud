@@ -1,6 +1,5 @@
 #include <iostream>
 #include <vector>
-using namespace std;
 
 int linear_search(std::vector<int> &v, int target)
 {
