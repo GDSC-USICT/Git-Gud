@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 
-int linear_search(std::vector<int> &v, int target)
+int search(std::vector<int> &v, int target)
 {
 	int i;
 	for (i = 0; i < v.size(); i++)
@@ -15,7 +15,7 @@ int main(void)
 	std::vector<int> v = { 1,2,3,4,5 };
 	int target = 3;
 
-	int index = linear_search (v, target);
+	int index = search (v, target);
 	if (index == -1)
 		std::cout<<"element not found \n";
 	else
