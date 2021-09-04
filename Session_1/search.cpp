@@ -19,6 +19,7 @@ int search(std::vector<int> v, int l, int r, int target)
 			l = mid + 1;
 		}
 	}
+	return -1;
 }
 
 int main(void)
