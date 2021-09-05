@@ -1,11 +1,11 @@
 #include <iostream>
 #include <vector>
 
-int search(std::vector<int> &arr, int target)
+int search(std::vector<int> &v, int target)
 {
 	int i;
-	for (i = 0; i < arr.size(); i++)
-		if (arr[i] == target)
+	for (i = 0; i < v.size(); i++)
+		if (v[i] == target)
 			return i;
 	return -1;
 }
