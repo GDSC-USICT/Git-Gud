@@ -10,7 +10,6 @@ Open-source software (OSS) is computer software that is released under a license
 Checkout our code of conduct [here](https://github.com/GDSC-USICT/Git-Gud/blob/master/CODE_OF_CONDUCT.md)
 
 # Resources
-<img height = 350 src="https://www.virtualsig.org/wp-content/uploads/2020/06/resources-1-1.jpg"/>
 
 ## <img height = 50 src="https://i.pinimg.com/564x/9c/8a/35/9c8a352bfeececff536ae9f8877abf53.jpg"/> Useful articles:
 • [Make Your First Pull Request! 🚀](https://blogs.aakanksha.is-a.dev/make-your-first-pull-request#heading-how-to-make-a-pull-request) <br>
